@@ -151,7 +151,7 @@ def participate(driver,urlof,sizee,phone):
 
 def main():
   #debug#
-	errors = []
+  errors = []
   ######
   ## accounts need to be formatted like this : {'mail':'mike@gmail.com','password':'mike123','+44.......'}
   accounts = []
