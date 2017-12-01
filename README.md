@@ -11,3 +11,5 @@ __________________________________________________________
 -Tested on OFF WHITE (main.py) event release, worked like a charm
 
 **-Now support Travis Scott AF1 release**
+
+PS: Do not forget to change links to your location and add accounts proxies etc...
